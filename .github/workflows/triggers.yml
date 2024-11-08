@@ -1,5 +1,7 @@
 name: Triggers
 
+run-name: Second Challenge
+
 on:
   issue_commet:
     types: [ created, deleted ]
