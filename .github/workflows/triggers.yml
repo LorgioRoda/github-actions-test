@@ -3,7 +3,7 @@ name: Triggers
 run-name: Second Challenge
 
 on:
-  issue_commet:
+  issue_comment:
     types: [ created, deleted ]
   push:
     branches:
